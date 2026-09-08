@@ -1,2 +1,2 @@
-# Sales_dataset
-This contains a csv file(Lecture purpose)
+# Hello!
+The primary purpose of this repo is to share files and resources with you for varios purposes.
